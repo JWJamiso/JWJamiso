@@ -8,7 +8,7 @@ Current .Net developer helping mid sized businesses scale through software solut
 
 * 🌍  I'm based in Phoenix, Arizona
 * ✉️  You can contact me at [johnwilliamj24@gmail.com](mailto:johnwilliamj24@gmail.com)
-* 🚀  I'm currently working on [Ranahub](http://ranahub.com/)
+* 🚀  I'm currently working at [Simple Realty Bits](https://www.simplerealtybits.com/)
 * 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/iamjohnjamison" target="_blank" rel="noreferrer"><img
