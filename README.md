@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-Current .Net developer helping mid sized businesses scale through software solutions. Currently learning React, Next.js, and Prisma. Ever expanding learner, interested in anything software, business, and self improvement related
+Current .Net developer helping mid sized businesses scale through software solutions. Currently learning React. Ever expanding learner, interested in anything software, business, and self improvement related
 
 * 🌍  I'm based in Phoenix, Arizona
 * ✉️  You can contact me at [johnwilliamj24@gmail.com](mailto:johnwilliamj24@gmail.com)
 * 🚀  I'm currently working at [Simple Realty Bits](https://www.simplerealtybits.com/)
-* 🧠  I'm learning Next.js
 
 <a href="https://www.twitter.com/iamjohnjamison" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iamjohnjamison?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
